@@ -4,4 +4,4 @@ def countdown(integer)
 end
 
 
-sleep(1.minute)
+sleep(1.minutes)
